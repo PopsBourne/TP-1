@@ -1,0 +1,8 @@
+Plants Vs Zombies v3.0
+
+cycle: 9
+suncoins: 100
+level: INSANE
+remZombies: 6
+plantList: 
+zombieList: Z[5,x:3,y:6,t:1], X[2,x:1,y:4,t:1], W[8,x:2,y:7,t:0], X[2,x:3,y:7,t:0], 
